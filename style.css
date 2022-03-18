@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #171717;
+}
+
+#submitButton {
+        color: white;
+    background-color: #1DB954;
+    font-size: 17px;
+    padding: 8px;
+    margin: 20px auto;
+    border: none;
+    border-radius: 5px;
+text-align: center;
+cursor: pointer;
+display: flex;
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+#images {
+    display: flex;
+align-items: center;
+height: 200px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+    
+    
+}
